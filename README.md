@@ -1,6 +1,8 @@
 # ENS to IPFS resolver Qutebrowser userscript
 This Qutebrowser userscript makes it possible to browse .eth domain which are registered in Ethereum name service (ENS) and has a IPFS object connected to it.
+
 Learn more about ENS and register your domain [here](https://ens.domains/).
+
 Set IPFS content hash for your ENS domain [here](https://monkybrain.github.io/ipfs-to-ens/)
 
 ## Dependencies
