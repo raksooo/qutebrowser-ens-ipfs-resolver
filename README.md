@@ -6,7 +6,7 @@ Learn more about ENS and register your domain [here](https://ens.domains/).
 Set IPFS content hash for your ENS domain [here](https://monkybrain.github.io/ipfs-to-ens/)
 
 ## Dependencies
-* [ens-ipfs-resolver](https://www.npmjs.com/package/ens-ipfs-resolver)
+* [ens-ipfs-resolver](https://www.npmjs.com/package/ens-ipfs-resolver) (`npm i -g ens-ipfs-resolver`)
 
 ## Installation
 ```
