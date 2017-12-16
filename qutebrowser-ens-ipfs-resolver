@@ -1,1 +1,6 @@
-#!/usr/bin/env/bash
+#!/usr/bin/env bash
+
+url=$(echo $QUTE_URL | sed 's/http://' | sed 's/\///g')
+ipfs=$(/home/oskar/.npm-global/bin/ensipfs $url)
+echo "open $ipfs" >> "$QUTE_FIFO"
+
